@@ -1,4 +1,0 @@
-﻿  Game.cpp
-C:\Users\mateg\source\repos\donkey_kong_projct3 - main file - Copy (4)\Game.cpp(29,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\mateg\source\repos\donkey_kong_projct3 - main file - Copy (4)\Game.cpp(42,41): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
-  donkey_kong_projct2.vcxproj -> C:\Users\mateg\source\repos\donkey_kong_projct3 - main file - Copy (4)\x64\Debug\donkey_kong_projct2.exe
