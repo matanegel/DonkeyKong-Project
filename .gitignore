@@ -1,0 +1,12 @@
+# Ignore Visual Studio temporary files
+.vs/
+*.ipch
+*.suo
+*.user
+*.VC.db
+*.obj
+*.exe
+*.pdb
+*.log
+[Bb]in/
+[Oo]bj/
