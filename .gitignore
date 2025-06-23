@@ -1,12 +1,20 @@
-# Ignore Visual Studio temporary files
+# Visual Studio
 .vs/
-*.ipch
-*.suo
 *.user
+*.suo
 *.VC.db
-*.obj
-*.exe
-*.pdb
-*.log
+*.VC.opendb
+*.ipch
+
+# Build output
+Debug/
+Release/
 [Bb]in/
 [Oo]bj/
+
+# Others
+*.log
+*.exe
+*.pdb
+*.cache
+*.ilk
